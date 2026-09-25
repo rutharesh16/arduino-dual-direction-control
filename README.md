@@ -23,4 +23,4 @@ We connected two DC gear motors to the L298N motor driver and interfaced it with
 # 5.Learning :
 
 Learned practical Arduino programming, motor driver connections, and DC motor direction control.
-![image](arduno_dual_image)
+![image](arduno_dual_image.jpeg)
